@@ -23,9 +23,9 @@ This is a simple command-line To-Do List application written in Python. It allow
    - Save the code in a file named `toDoApplication.py` (or any name you prefer).
    - Open a terminal or command prompt in the directory containing `toDoApplication.py`.
    - Run the application by typing:
-     ```bash
+     bash:
      python toDoApplication.py
-     ```
+     
    
 2. **Usage:**
    - Once the menu is displayed:
